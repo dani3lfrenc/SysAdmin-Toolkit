@@ -1,1 +1,13 @@
+# Ignore CSV files containing user data
+*.csv
 
+# Ignore log files
+*.log
+*.txt
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore PowerShell history/temp files
+.history.lck
